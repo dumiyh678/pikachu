@@ -169,37 +169,37 @@
             "NEED_PHOTO": "*photo thaa mister!*",
             "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
             "RBGING": "```Removing...```"
-        },
+         },
         "scrapers": {
-            "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
+            "TRANSLATE_DESC": "එය Google පරිවර්තනය සමඟ පරිවර්තනය කරයි.  ඔබ ඕනෑම පණිවිඩයකට පිළිතුරු දිය යුතුය .",
             "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
-            "NEED_REPLY": "```Please reply to any message!```",
-            "LANG": "Language",
-            "FROM": "Translated Language",
-            "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
-            "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
-            "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
-            "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "It converts text to sound.",
-            "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
-            "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
+            "NEED_REPLY": "```ඕනෑම පණිවිඩයකට කරුණාකර පිළිතුරු දෙන්න !```",
+            "LANG": "භාෂාව ",
+            "FROM": "පරිවර්තනය කළ භාෂාව ",
+            "RESULT": "පරිවර්තනය කරන්න ",
+            "TRANSLATE_ERROR": "❌ පරිවර්තනය කිරීමේදී දෝෂයක් සිදු විය !*",
+            "CURRENCY_ERROR": "```වාක්‍ය ඛණ්ඩ දෝෂය!  උදාහරණයක් : .currency 1 TRY USD```",
+            "INVALID_CURRENCY": "```විදේශ මුදල් ගනුදෙනුව අසාර්ථක විය.  ඔබ වැරදි මුදල් ලියුවා !```",
+            "UNKNOWN_ERROR": "```දෝෂයක් සිදු විය.  විදේශ මුදල් ගනුදෙනුව අසාර්ථක විය !```",
+            "TTS_DESC": "එය පෙළ ශබ්දය බවට පරිවර්තනය කරයි .",
+            "TTS_ERROR": "```දෝෂය, ඔබේ වාක්‍යයේ කථන උදාහරණය සෑදිය නොහැක !```",
+            "SONG_DESC": "ඔබ ලියූ ගීතය උඩුගත කරයි .",
+            "NEED_TEXT_SONG": "*කරුණාකර ගීතයක් ලියන්න! *\n*Example:* ```.song sirithusa sisiliya```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
-            "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
-            "YT_DESC": "It searchs on YouTube.",
-            "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
-            "WIKI_DESC": "Searches query on Wikipedia.",
-            "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
+            "DOWNLOADING_SONG": "\n*🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:ඔබේ ගීතය සොයමින්..🍁*\n",
+            "UPLOADING_SONG": "\n*🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:ඔබේ ගීතය අප්ලෝඩ් කරමින්..🍁*\n",
+            "VIDEO_DESC": "යූටියුබ් වෙතින් වීඩියෝ බාගැනීම් .",
+            "NEED_VIDEO": "*කරුණාකර වීඩියෝ සම්බන්ධකයක් ලියන්න !*\n*උදාහරණයක් :* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "DOWNLOADING_VIDEO": "```🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:ඔබගේ වීඩියෝව සොයමින්..🍁```",
+            "UPLOADING_VIDEO": "```🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:ඔබගේ වීඩියෝව අප්ලෝඩ් කරමින්..🍁```",
+            "YT_DESC": "එය යූ ටියුබ් හි සොයයි .",
+            "NEED_WORDS": "```කරුණාකර වචන කිහිපයක් ලියන්න !```",
+            "GETTING_VIDEOS": "```🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:ඔබගේ යූටියුබ් ලින්ක් සොයමින්..🍁...```",
+            "NOT_FOUND": "*🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:මට හොයාගන්න බැරි වුනා ☹️*",
+            "SEARCHING": "*🍁𝘿𝙐𝙈𝙄𝘽𝙊𝙏|:සෙවීම ...*",
+            "WIKI_DESC": "විකිපීඩියාවේ විමසුම සොයයි .",
+            "IMG_DESC": "අදාළ පින්තූර ගූගල් හි සොයයි .",
+            "IMG": "```ඡායාරූපය යැවීම ``` *{}* ```ගණන ``` *{}*"
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
